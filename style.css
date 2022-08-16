@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Signika Negative', sans-serif;
+    
+    
+}
+
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.carouselExampleCaptions{
+
+}
+/*HOME start*/
+
+/*HOME end*/
+/*ABOUT start*/
+/* .custom-card{
+    box-shadow: 0 0 10px silver;
+    border-radius: 10px;
+    text-align: center;
+}
+.h2-title{
+    position: relative;
+    width: fit-content;
+}
+.h2-title:after{
+    content: '';
+    border-bottom: 4px solid deepskyblue;
+    position: absolute;
+    width: 70%;
+    bottom: -14px;
+    left: 0;
+
+}
+.skill-area p{
+    margin-top: 10px;
+
+}
+.skill-area .progress{
+    height: 10px;
+} */
+
+.about-text{
+    text-align: center;
+    justify-content: center;
+    color: white;
+
+}
+.about{
+    color: rgb(250, 241, 241);
+    background-color: #1B1A27;
+    /* position: relative; */
+    
+}
+.xx{
+    /* border: 1px solid #10BA5C; */
+}
+.detils{
+    /* border: 1px solid #10BA5C; */
+    /* margin-top: 100px;
+    margin-left: 100px;
+    justify-content: center; */
+}
+.name{
+    /* text-align: right;
+    margin-top: 20px;
+    margin-right: 200px; */
+}
+.cc{
+    /* border: 1px solid #10BA5C; */
+    /* text-align: center; */
+    /* justify-self:right; */
+}
+.bb{
+    /* justify-content: center; */
+    /* margin-top: 40px;
+    margin-left: 220px; */
+    /* border: 1px solid #10BA5C; */
+    /* display: flex;
+    margin-right: -200px;
+    margin-bottom: 1px; */
+    /* float: inline-end; */
+    height: 80px;
+    width: 80px;
+    border-radius: 50px; 
+    /* margin-top: 30px; */
+}
+.color{
+    color: #10BA5C;
+}
+.bbb{
+    /* border: 1px solid #10BA5C; */
+    /* margin-top: 15px;
+    margin-left: 500px;  */
+}
+.c{
+color: #767680;
+} 
+/* .HTM{
+    height: 19px;
+    width: 450px;
+    background-color: #10BA5C;
+}
+.PHP{
+    height: 19px;
+    width: 430px;
+    background-color: #10BA5C;
+}
+.WORDPRESS{
+
+    height: 19px;
+    width: 400px;
+    background-color: #10BA5C;
+}
+.JAVASCRIPT{
+    height: 19px;
+    width: 440px;
+    background-color: #10BA5C;
+} */
+/* @media screen and(max-width:768px){
+    .HTM{
+        width: 50px; 
+        color: #737479;
+    }
+} */
+.p{
+    margin-top: 5px;
+    text-align: center;
+}
+/*ABOUT end*/
+/*PORTFOLIO start*/
+.portfolio-bg{
+    
+    background-color: #1B1A27;
+}
+.portfolio{
+    padding-top: 50px;
+}
+.PORTFOLIO-UL{
+    display: flex;
+    justify-content: center;
+    color: white;
+    list-style: none;
+    padding-top: 25px;
+}
+.PORTFOLIO-UL li{
+    margin-right: 40px;   
+}
+/*PORTFOLIO end*/
+/*BLOG start*/
+
+/*BLOG end*/
+/*SERVICES start*/
+.SERVICES{
+   
+    color: white;
+}
+.ff{
+    align-items: center;
+    justify-content: center;
+    color: #18B258;
+}
+/*SERVICES end*/
+/*CONTACT start*/
+.CONTACT-bg{
+    background-color: #1B1A27;
+}
+.SENDMESSAGE{
+    color: white;
+    background-color: #10BA5C;
+    margin-right: 113px;
+    float: right;
+    margin-top: 3px;
+}
+/*CONTACT end*/
+
+/*footer start*/
+.container-fluid{
+    height: 10vh;
+    width: 100%;
+}
+.footer-row{
+    text-align: center;
+    color: #737479;
+}
+.fa-square-facebook{
+   
+}
+svg{
+    margin: 10px;
+}
+/*footer end*/
+
+
